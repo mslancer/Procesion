@@ -16,7 +16,7 @@
 * IntelliJ IDEA
 
 В качестве тестовых данных использовались данные [Github](https://github.com/netology-code/javaqa-homeworks/tree/master/programming):
-* Суммируем regularBonus и specialBonus - ОР: Результат : 0.9
+* Суммируем regularBonus и specialBonus - ОР: 0.9
 
 
 Тестирование производилось в следующем окружении:
